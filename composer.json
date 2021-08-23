@@ -58,5 +58,10 @@
         "sort-packages": true
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+
+    "post-create-project-cmd": [
+        "php -r \"copy('.env.example', '.env');\"",
+        "php artisan key:generate"
+      ]
 }
