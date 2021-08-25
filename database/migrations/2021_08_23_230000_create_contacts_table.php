@@ -15,6 +15,9 @@ class CreateContactsTable extends Migration
     {
         Schema::create('contacts', function (Blueprint $table) {
             $table->id();
+            $table->morphs('contactable');
+            $table->string('phone_number', 11);
+            $table->boolean('whatsapp');
             $table->timestamps();
         });
     }
