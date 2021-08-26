@@ -15,10 +15,14 @@ Laravel é um framework de aplicação web com sintaxe expressiva e elegante. Ac
 
 Essa aplicação está sendo desenvolvida pela matéria 'Programação para internet II', junto com todos os alunos da turma de 8º período de sistemas de informação com intuito de melhorar a comunicação dos alunos e trazer conhecimentos em códigos e fora dos códigos, pois é uma curva de aprendizagem imensa para todos.
 
+## Requisítos
+
+- Instalar git bash (<a href="https://git-scm.com/download/win">Donwload</a>) e criar uma conta 
+- Instalar composer (<a href="https://getcomposer.org/Composer-Setup.exe">Donwload</a>)
+
 ## Comandos para instalação
 
 No terminal, execute:
-- Instalar git (https://git-scm.com/downloads)
 - git clone https://github.com/rnads/order-services
 
 Inicie o seu servidor local (xampp, wamppserver, ou algum de sua preferência), e depois execute:
