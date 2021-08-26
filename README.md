@@ -17,7 +17,7 @@ Essa aplicação está sendo desenvolvida pela matéria 'Programação para inte
 
 ## Requisítos
 
-- Instalar git bash (<a href="https://git-scm.com/download/win">Donwload</a>) e criar uma conta 
+- Instalar git bash (<a href="https://git-scm.com/downloads">Donwload</a>) e criar uma conta 
 - Instalar composer (<a href="https://getcomposer.org/Composer-Setup.exe">Donwload</a>)
 
 ## Comandos para instalação
