@@ -24,6 +24,7 @@ Essa aplicação está sendo desenvolvida pela matéria 'Programação para inte
 
 No terminal, execute:
 - git clone https://github.com/rnads/order-services
+- cd order-services
 
 Inicie o seu servidor local (xampp, wamppserver, ou algum de sua preferência), e depois execute:
 - composer install
